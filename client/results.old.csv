@@ -1,0 +1,5 @@
+scheduling;lambda_bewteen_requests;index;node;node_delay;sleep_time;actual_time
+ROUND ROBIN;1.0;0;node-c;5ms;0.03;0.297513484954834
+ROUND ROBIN;1.0;1;node-b;50ms;0.27;0.6071527004241943
+ROUND ROBIN;1.0;2;node-c;5ms;0.17;0.393096923828125
+ROUND ROBIN;1.0;3;node-b;50ms;0.07;0.3896472454071045
